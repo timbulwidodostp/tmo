@@ -2,4 +2,4 @@
 1
 2
 3
-p xtkr The Keane & Runkle Estimator for Dynamic Panel Estimation Use xtkr With STATA 19
+p tmo Estimating standard errors via the Thresholding Multiple Outcomes (TMO) method Use tmo With STATA 19
